@@ -1,0 +1,4 @@
+version "4.3.0"
+#include "zscript/doom1.zc"
+#include "zscript/doom2.zc"
+#include "zscript/ZPerkHandlerDoom2.zc"
